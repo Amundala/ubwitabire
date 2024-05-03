@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backGroundColor: {
+      backgroundColor: {
         'acre-yellow-bg': '#DE9811',
       }
     },
